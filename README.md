@@ -1,2 +1,2 @@
-# Web-MPK-SMAN-3-PALEMBANG
+# MPKSMAN3PALEMBANG
 web mpk smanta palembang
